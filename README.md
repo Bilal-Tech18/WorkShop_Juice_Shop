@@ -124,7 +124,7 @@ If you do not click that button before the message vanishes, you can also restar
 If during restore you see an error message Version X is incompatible with expected version Y your backup was taken before a semantically incompatible format change.
 
 
-Hacking Instructor:
+# Step 3: Hacking Instructor:
 
 The built-in Hacking Instructor offers tutorials for some Juice Shop challenges. By default, the welcome banner shown upon first launch of the application has a mortar_board-button which will help you Find the carefully hidden 'Score Board' page.
 
@@ -143,7 +143,7 @@ After successfully completing all steps of a tutorial, the Hacking Instructor wi
 
 ![hacking-instructor_3](https://user-images.githubusercontent.com/91556798/232233581-b23d2637-603f-47bb-99d0-809deb47a4fd.png)
 
-# Step 3: Coding challenges
+# Step 4: Coding challenges
 
 For many (solved) challenges an additional button is available on the Score Board which
 will open a dialog containing the actual code snippet responsible for the security vulnerability behind the particular challenge. Note that by default this button is only enabled for solved hacking challenges. For challenge where no such button is shown, there is no coding challenge available.
